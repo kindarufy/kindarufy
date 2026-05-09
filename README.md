@@ -40,7 +40,7 @@
 - Docker, CI/CD, PostgreSQL, SQLite, OpenAPI/Swagger
 - API Security: SQL Injection, BOLA, Mass Assignment, secure authentication
 
-## Избранные проекты
+## Закрепленные проекты
 
 - [Finance Helper](https://github.com/kindarufy/Finance_Helper) — микросервисный помощник для учёта личных финансов с Telegram Bot, FastAPI и PostgreSQL
 - [Secure Auth Service](https://github.com/kindarufy/secure-auth-service) — сервис аутентификации с JWT, RBAC, rate limiting и audit logging
