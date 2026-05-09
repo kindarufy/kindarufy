@@ -1,8 +1,24 @@
+<div align="center">
+
 # Николь Журбенко
 
-Backend-разработчик с фокусом на **Python, REST API, тестирование и безопасность backend-сервисов**.
+**Backend-разработчик с фокусом на Python, REST API, тестирование и безопасность backend-сервисов**
 
 Сейчас развиваюсь в сторону **API Security / AppSec**: мне интересно проектировать надёжные backend-системы, разбираться в уязвимостях и писать понятные, безопасные и проверяемые API.
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-20232A?style=flat&logo=python)
+![Django REST Framework](https://img.shields.io/badge/DRF-20232A?style=flat&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-20232A?style=flat&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=flat&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-20232A?style=flat&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-20232A?style=flat&logo=githubactions)
+![Postman](https://img.shields.io/badge/Postman-20232A?style=flat&logo=postman)
+
+</div>
+
+---
 
 ## Чем я занимаюсь
 
@@ -27,16 +43,22 @@ Backend-разработчик с фокусом на **Python, REST API, тес
 **Databases:** PostgreSQL, MySQL, SQLite  
 **Other:** JavaScript, Node.js, Express, Docker, GitHub Actions, Postman, OpenAPI, pytest, Git
 
+---
+
 <details>
 <summary><b>English version</b></summary>
 
+<div align="center">
+
 ## Nicole Zhurbenko
 
-Backend developer focused on **Python, REST APIs, testing, and secure backend development**.
+**Backend developer focused on Python, REST APIs, testing, and secure backend development**
 
-I am currently moving toward **API Security / AppSec**. I enjoy building reliable backend systems, understanding vulnerabilities, designing clear APIs, and keeping projects clean and maintainable.
+I am currently moving toward **API Security / AppSec**. I enjoy building reliable backend systems, understanding vulnerabilities, and designing clear, secure, testable APIs.
 
-### Focus areas
+</div>
+
+### What I work with
 
 - Backend development with **Python**: Django REST Framework, FastAPI, Flask
 - REST API design, authentication, authorization, roles, and access control
